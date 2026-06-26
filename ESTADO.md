@@ -33,3 +33,10 @@ type Recipe = {
   updatedAt: string;
 };
 ```
+
+
+
+
+## Observacao
+
+Os dados persistem localmente via AsyncStorage e sobrevivem ao fechamento do app
