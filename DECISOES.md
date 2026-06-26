@@ -48,4 +48,6 @@ Esse trecho verifica se os campos obrigatorios foram preenchidos antes de salvar
 
 Usei IA como apoio para organizar a estrutura inicial do projeto, planejar os documentos obrigatorios e revisar a logica do CRUD. A validacao dos campos, os ajustes de layout, nomes de variaveis e a revisao do fluxo de navegacao foram feitos e revisados manualmente por mim durante o desenvolvimento.
 docs: atualiza decisoes de projeto
+## Status do projeto
 
+Projeto finalizado e entregue dentro do prazo estipulado.
