@@ -120,3 +120,7 @@ Se voce ja tiver feito tudo antes de commitar, ainda assim faca commits separado
 - Expo
 - AsyncStorage
 - React Navigation
+
+## Autor
+
+Projeto desenvolvido como avaliacao pratica de desenvolvimento mobile.
