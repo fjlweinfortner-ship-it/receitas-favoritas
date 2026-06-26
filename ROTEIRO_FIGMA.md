@@ -165,3 +165,4 @@ Crie uma area chamada "Componentes" e coloque:
 ## Texto curto para apresentar o design
 
 Escolhi uma interface simples para facilitar o cadastro rapido de receitas. A tela inicial mostra apenas o nome e o tempo de preparo, porque essas sao as informacoes mais importantes na hora de escolher uma receita. Os detalhes ficam em uma tela separada para nao deixar a lista poluida. O botao de exclusao fica na tela de detalhes para evitar apagar uma receita sem querer.
+## Status: concluido
