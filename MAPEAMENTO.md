@@ -57,3 +57,9 @@ RecipeFormScreen
 ├── clicar em "Salvar" -> valida campos -> salva no AsyncStorage -> RecipesListScreen
 └── clicar em "Voltar" -> retorna para tela anterior
 ```
+## Componentes reutilizaveis
+
+- AppButton: botao padrao usado em todas as telas
+- FormField: campo de formulario reutilizavel
+- Header: cabecalho com titulo e botao de voltar
+- RecipeCard: card de receita exibido na listagem
