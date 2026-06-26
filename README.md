@@ -113,3 +113,10 @@ Se voce ja tiver feito tudo antes de commitar, ainda assim faca commits separado
 - Exclusao com confirmacao.
 - Codigo da validacao no arquivo `src/screens/RecipeFormScreen.js`.
 - Codigo do armazenamento no arquivo `src/storage/recipeStorage.js`.
+
+## Tecnologias utilizadas
+
+- React Native
+- Expo
+- AsyncStorage
+- React Navigation
