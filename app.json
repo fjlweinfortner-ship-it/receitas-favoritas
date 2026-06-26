@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Receitas Favoritas",
+    "slug": "receitas-favoritas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
